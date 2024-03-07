@@ -1,4 +1,4 @@
-22349971742581509
+22360230621910642
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2456,6 +2456,13 @@ speaker CUI
 0
 2
 2
+CD4070BE
+CD4070BE
+
+
+0
+14
+14
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -52870,6 +52877,27 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DM74LS04N
+DM74LS04N
+
+
+0
+14
+14
+DM74LS54N
+DM74LS54N
+
+
+0
+14
+14
+DM74164N
+DM74164N
+
+
+0
+14
+14
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -62348,6 +62376,13 @@ Yellow 5381 Series LED
 0
 2
 2
+MC14012B
+MC14012B
+
+
+0
+14
+14
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -85014,6 +85049,13 @@ rotary encoder
 0
 7
 6
+SN74LS95BN
+SN74LS95BN
+
+
+0
+0
+0
 SN74107N
 SN74107N
 
